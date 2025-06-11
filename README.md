@@ -3,5 +3,4 @@
 - ### Go the last slide for the assignment
 
 
-
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/02014027-74f5-43db-a398-8a16a39a9bd2)
